@@ -21,10 +21,16 @@ npx create-react-app  < app name >
 
 npm start
 
- ## Screenshot Image
+ ## Screenshots Image
    
-![employee-directory](#)
-![employee-directory](#)
+![react-portfolio](./src/Assets/Images/Ne1.png)
+
+![react-portfolio](./src/Assets/Images/Ne2.png)
+
+![react-portfolio](./src/Assets/Images/Ne3.png)
+
+![react-portfolio](./src/Assets/Images/Ne4.png)
+
 Deployed: https://negasimichael.github.io/react-portfolio/
 ## Contribution
   [negasimichael](https://github.com/negasimichael/react-portfolio) is the only contrubuter of this project .
