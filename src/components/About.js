@@ -26,7 +26,7 @@ const About = () => {
             <div className="persona col-md-12">
               <p className="content">
                 Technical Skills
-                Front End: HTML/CSS,Bootstrap, JavaScript, jQuery, APIs fetch, and Ajax calls, 
+                Front End: HTML/CSS,Bootstrap, JavaScript, jQuery, APIs fetch, and Ajax calls, React.js.
                 Version Control: git, gitlab, github.
                 Backend: MySQL, MongoDB, Express, Node, Handlebars, Sequelize.
     
@@ -47,7 +47,6 @@ const About = () => {
           </div>
       </main>
       </div>    
-
 
     )
 }
