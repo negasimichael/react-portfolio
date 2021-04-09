@@ -30,7 +30,6 @@ npx create-react-app  < app name >
 
 npm start
 
- ## Screenshots Image
    
 ![react-portfolio](./src/Assets/Images/Ne1.png)
 
