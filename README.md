@@ -3,17 +3,17 @@
 
 ## Description
 
-# This is Personal Portfolio build by React.js
+This is Personal Portfolio build by React.js
 
-# This application created with folder components and files About, Contact, Footer, Nav, Portfolio and style.css
+ This application created with folder components and files About, Contact, Footer, Nav, Portfolio and style.css
 
-# npm install for dependence
+ npm install for dependence
 
-# build,
+ build,
 
-# gh-pages,
+ gh-pages,
 
-# axios
+ axios
 
 ## Table of Contents
    * [Installation](#installation)
