@@ -1,10 +1,19 @@
 ## react-portfolio
 ---------------------------------------------------------------------------------
 
-
 ## Description
 
+# This is Personal Portfolio build by React.js
 
+# This application created with folder components and files About, Contact, Footer, Nav, Portfolio and style.css
+
+# npm install for dependence
+
+# build,
+
+# gh-pages,
+
+# axios
 
 ## Table of Contents
    * [Installation](#installation)

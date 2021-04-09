@@ -38,7 +38,7 @@ const About = () => {
               </p>
               <div className="about-btn-wrap d-flex justify-content-center myLin">
                 <a href="https://github.com/negasimichael" target="_blank" className="btn btn-dark"><i className="btn-dark">Github</i></a>
-                <a href="./Assets/Images/Resume.pdf"
+                <a href={process.env.PUBLIC_URL+"/Resume.pdf"}
                   target="_blank" className="btn btn-secondary"> Resume</a>
                 <a href="https://www.linkedin.com/in/negasi-michael-39397519a/" target="_blank"
                   className="btn btn-dark">Linkedin</a>
