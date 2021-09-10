@@ -34,8 +34,8 @@ const About = () => {
     
                I worked at Federal-Mogul Corporation in Chicago,IL as a  machine operator for three years.I had worked with different types of machines and collaborated  with team work jobs where I provided  fair, friendly and courteous service with a strong work ethic.
                Recognized by the manager as the most active employee to work and always on time. 
-               
-               Professional Driver;I worked as a professional chauffeur driver providing customers safe and pleasant services.Nowdays I am working with Uber as Driver and food delivery .I received a lot of great compliments from riders thanking me for the experience of a safe, on-time ride with friendly conversations.
+              
+               Education North Western Unversity Full Stack developer 2021 certificate.
                 <Link to="/contact">here</Link>.
               </p>
               <div className="about-btn-wrap d-flex justify-content-center myLin">
