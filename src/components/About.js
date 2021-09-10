@@ -18,7 +18,9 @@ const About = () => {
               <div className="persona col-md-8 card-body">
                 <h5 className="card-title">About Me</h5>
                 <p className="content card-text">
-                   Hi my name is Negasi Michael.I am a Full  Stack Web Developer student at Northwestern Unversity with a passion for architectural design and polishing client application, and database manipulation and routing with node/express server. Adept at working independently as well as collaborating with teams across multiple functions.
+                  Cerified Full Stack Web developer
+
+                   Dedicated and effcient full Stack web developer with ambition in application layers and databases with a passion for architectural design and polishing client application, and database manipulation and routing with node/express server. Adept at working independently as well as collaborating with teams across multiple functions.
                 </p>
               </div>
             </div>
@@ -26,7 +28,7 @@ const About = () => {
             <div className="persona col-md-12">
               <p className="content">
                 Technical Skills
-                Front End: HTML/CSS,Bootstrap, JavaScript, jQuery, APIs fetch, and Ajax calls, React.js.
+                Front End: HTML/CSS,Bootstrap, JavaScript, jQuery, APIs fetch, and Ajax calls, React.js,Progressive Web Apps (PWAs).
                 Version Control: git, gitlab, github.
                 Backend: MySQL, MongoDB, Express, Node, Handlebars, Sequelize.
     
