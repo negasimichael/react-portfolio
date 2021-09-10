@@ -18,9 +18,9 @@ const About = () => {
               <div className="persona col-md-8 card-body">
                 <h5 className="card-title">About Me</h5>
                 <p className="content card-text">
-                  Cerified Full Stack Web developer
+                  Certified Full Stack Web developer
 
-                   Dedicated and effcient full Stack web developer with ambition in application layers and databases with a passion for architectural design and polishing client application, and database manipulation and routing with node/express server. Adept at working independently as well as collaborating with teams across multiple functions.
+                   Dedicated and efficient full Stack web developer with ambition in application layers and databases with a passion for architectural design and polishing client application, and database manipulation and routing with node/express server. Adept at working independently as well as collaborating with teams across multiple functions.
                 </p>
               </div>
             </div>
